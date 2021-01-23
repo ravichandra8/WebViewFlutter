@@ -1,6 +1,6 @@
-# webviewexample
+# webview Flutter
 
-A new Flutter application.
+A new Flutter application to show the website in webview with navigation controller.
 
 ##Features:
 1) Load website in webview
